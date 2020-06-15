@@ -1,0 +1,20 @@
+Este ejercicio tiene como objetivo subir el ejercicio anterior a un repositorio remoto, y crear
+ramificaciones para la solicitud de actualizaciones.
+- Ingresar al sitio de GitHub
+- Acceder con su usuario y clave
+- Crear un nuevo repositorio
+- Acceder un terminal (Linux, MacOS) o consola de Git (Windows)
+- Añadir la dirección del repositorio remoto al directorio local
+- Subir el contenido de la rama “master” al repositorio remoto
+- En el sitio de GitHub, verificar que los archivos y directorios fueron creados
+exitosamente.
+- De no ser así, verifique con su compañero de equipo
+- Acceder al repositorio de GitHub creado por el otro integrante del equipo
+- Crear una ramificación con un nombre distinto del original
+- Regrese a su portal de GitHub, y acceda a la ramificación provenient e del proyecto de
+su compañero
+- Crear en el directorio contenidos/ un archivo de nombre modulo5.txt. Invente un texto
+que considere interesante.
+- Aplique los cambios con el mensaje “Se terminó de agregar todo el contenido”
+- Haga una solicitud de actualización al otro integrante del equipo.
+- La respuesta a la actualización la conocerá por correo, y dependerá de su compañero.
