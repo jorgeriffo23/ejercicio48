@@ -1,0 +1,12 @@
+ls -> lista lo contenido en la carpeta
+git clone https://github.com/jorgeriffo23/ejercicio48.git -> clonando repo de compañero
+git status
+git branch awakelab -> creando un una nueva rama
+git checkout awakelab -> entrando a la nueva rama
+touch modulo5.txt -< agregando el nuevo archivo en la rama awakelab
+git add .
+git commmit -m "Se terminó de agregar todo el contenido"
+
+git checkout master -> cambiando a la nueva rama
+git merge awakelab -> fusionando ramas 
+git status
